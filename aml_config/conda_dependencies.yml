@@ -11,6 +11,7 @@ dependencies:
   - python=3.5.2
   - scikit-learn
   - pip:
+    - azureml.datacollector==0.1.0a13
     - notebook
     - matplotlib
     
